@@ -23,7 +23,7 @@ Cada pasta representa um projeto independente, com foco em resolver um problema 
 
 ---
 
-### Os projetos segue o ciclo completo de análise de dados (Ask, Prepare, Process, Analyze, Share, Act), conforme o framework do Google Data Analytics.
+### Os projetos seguem o ciclo completo de análise de dados (Ask, Prepare, Process, Analyze, Share, Act), conforme o framework do Google Data Analytics.
 
 ---
 
