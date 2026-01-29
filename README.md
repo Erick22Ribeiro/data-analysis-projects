@@ -23,6 +23,10 @@ Cada pasta representa um projeto independente, com foco em resolver um problema 
 
 ---
 
+### Os projetos seguem o ciclo completo de análise de dados (Ask, Prepare, Process, Analyze, Share, Act), conforme o framework do Google Data Analytics.
+
+---
+
 ## 📁 Estrutura do repositório
 ```text
 data-analysis-projects/
